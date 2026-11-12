@@ -33,43 +33,48 @@ My work focuses on business and real-world questions across:
 
 These projects apply the same analytical approach across different business and real-world contexts.
 
-### 01 · Global Market & Business Performance Analysis
+### 01 · Global Market & Business Performance Analysis | Tools: Excel · Power Query · Power Pivot
+<img width="1077" height="488" alt="482971864-607a837b-85cb-420e-b866-c25757695bd4" src="https://github.com/user-attachments/assets/2f8a98dc-206f-4433-b386-7086e0c140d6" />
 
-**Business question:**
-*What is happening across the business, where are the meaningful performance differences, and where should management investigate further?*
+**Business question:** Where is the business performing well, where are the gaps, and what deserves management attention?
 
-This project examines business performance across **regions, products, customer segments, marketing channels, customer feedback, and time**.
+This project examines business performance across regions, products, customer segments, marketing channels, and customer feedback to highlight areas of strength and potential improvement.
 
-One finding stood out: **Social Media and Organic Search generated more observed revenue than Paid Ads.** Rather than assuming this means Paid Ads performed poorly, the analysis raises a more useful question: *what factors might explain the difference, and what additional evidence would be needed to assess channel effectiveness?*
+The analysis found that only 8.89% of customers made repeat purchases, highlighting customer retention as an area management may need to investigate.
 
-**The analytical lens:**
-Business performance · business interpretation · evidence-based decision-making
+It also showed that **Social Media** and **Organic Search** generated more revenue than **Paid Ads**. This provides a basis for reviewing marketing channel performance and investigating whether differences in spending, customer acquisition, and conversion help explain the results.
 
-**Tools:** Excel · SQL · Power BI
+**The analytical lens:** Business performance · customer behaviour · marketing channel analysis
 
 → **[Explore the full project](https://github.com/sharotta/Global-Market-Business-Performance-Analysis)**
 
-### 02 · Airline Performance Analysis
+### 02 · Airline Business Performance Analysis | Excel · SQL Server · Power BI · DAX
+<img width="868" height="485" alt="667610824-72946c2a-934b-4870-8eb3-5b97e95e582a" src="https://github.com/user-attachments/assets/127dd15f-5e62-4d9d-af9f-91fbed4a8da7" />
 
-**Business question:**
-*What does flight, route, revenue, passenger, and fuel data reveal about operational and commercial performance?*
+**Business question:** *Which routes deliver strong commercial performance, which raise efficiency concerns, and where should management focus its attention?*
 
-This project analyses **1,000 flights across 25 routes**, examining revenue, passenger volume, and fuel consumption to identify differences in route and flight performance.
+This project examines airline performance across 25 routes and 1,000 flights, assessing ticket revenue, passenger demand, and fuel consumption to identify differences in commercial and operational performance.
 
-One finding stood out: **average revenue per flight was about $44.8K, while passenger volume averaged about 123 passengers per flight.** These measures provide a starting point for understanding how revenue and passenger activity vary across the network and where management may need to look more closely.
+Miami → Sydney recorded the highest fuel consumption per passenger at approximately 33.33, alongside revenue of about $37.1K per flight, below the network average. This makes the route worth investigating further to understand the factors behind its fuel consumption and commercial performance.
 
-**The analytical lens:**
-Operational performance · route analysis · management decision support
-
-**Tools:**
-SQL · Power BI · Excel
+**The analytical lens:** Operational performance · route analysis · management decision support
 
 → **[Explore the full project](https://github.com/sharotta/Airline_Performance_Analysis)**
 
-## Tools & Capabilities
-- **Analytics:** Excel · SQL · Python · Google Sheets
-- **BI & Visualization:** Power BI · Tableau
-- **Data Preparation & Modelling:** Power Query · DAX · PostgreSQL · Data Modelling
+### 03 · SkillBridge Academy Sales Operations & Commercial Performance Analysis | SQL Server · Excel · Power BI
+<img width="967" height="541" alt="699579749-1c526716-be42-4c45-b15e-d571f7991b96" src="https://github.com/user-attachments/assets/8cb068e5-9a94-461b-ad6d-e4a91eb23e76" />
+
+**Business question:** *Where should management intervene in the sales process to improve performance?*
+
+This project examines sales and commercial performance within a Nigerian training business, covering the sales funnel, lead sources, sales representative activity, customer trends, and revenue performance. The analysis explores where leads progress or drop off, how sales activities relate to outcomes, and where management attention may be needed to improve performance.
+
+After cleaning and preparing the data, the analysis identified **696 leads (5.13%) without an assigned sales representative**. This highlights an operational ownership gap that management could investigate to improve lead accountability and follow-up.
+
+The project also examined lead conversion, sales performance, and customer purchasing patterns to identify where further attention may be needed.
+
+**The analytical lens:** Sales funnel analysis · sales operations · commercial performance
+
+→ [Explore the full project](https://github.com/sharotta/SkillBridge-Academy-Sales-Operations-Commercial-Performance-Analysis)
 
 ## Connect With Me
 Have a business question worth exploring? Let’s connect and see what the data can tell us.

@@ -43,9 +43,9 @@ These projects apply the same analytical approach across different business and 
 
 This project examines business performance across regions, products, customer segments, marketing channels, and customer feedback to highlight areas of strength and potential improvement.
 
-The analysis found that only 8.89% of customers made repeat purchases, highlighting customer retention as an area management may need to investigate.
+The analysis found that only **8.89% of customers** made repeat purchases, signalling a significant retention gap. It also showed that **Social Media** and **Organic Search** generated more revenue than **Paid Ads**.
 
-It also showed that **Social Media** and **Organic Search** generated more revenue than **Paid Ads**. This provides a basis for reviewing marketing channel performance and investigating whether differences in spending, customer acquisition, and conversion help explain the results.
+**Decision Impact:** Management can audit post-purchase follow-up and loyalty workflows to improve repeat customer retention, and review acquisition costs across channels before reallocating marketing budget from Paid Ads toward Organic Search and Social Media.
 
 **The analytical lens:** Business performance · customer behaviour · marketing channel analysis
 
@@ -58,7 +58,9 @@ It also showed that **Social Media** and **Organic Search** generated more reven
 
 This project examines airline performance across 25 routes and 1,000 flights, assessing ticket revenue, passenger demand, and fuel consumption to identify differences in commercial and operational performance.
 
-Miami → Sydney recorded the highest fuel consumption per passenger at approximately 33.33, alongside revenue of about $37.1K per flight, below the network average. This makes the route worth investigating further to understand the factors behind its fuel consumption and commercial performance.
+The analysis found that **Miami → Sydney** recorded the highest fuel consumption per passenger at **33.33**, alongside below-average revenue of **$37.1K per flight**, flagging it as a key efficiency and margin drag.
+
+**Decision Impact:** Operations and commercial teams can audit aircraft allocation, passenger load factors, and fare pricing on the Miami → Sydney route to decide whether schedule adjustments, equipment changes, or targeted pricing updates are needed.
 
 **The analytical lens:** Operational performance · route analysis · management decision support
 
@@ -69,11 +71,11 @@ Miami → Sydney recorded the highest fuel consumption per passenger at approxim
 
 **Business question:** *Where should management intervene in the sales process to improve performance?*
 
-This project examines sales and commercial performance within a Nigerian training business, covering the sales funnel, lead sources, sales representative activity, customer trends, and revenue performance. The analysis explores where leads progress or drop off, how sales activities relate to outcomes, and where management attention may be needed to improve performance.
+This project examines sales and commercial performance within a Nigerian training business, covering the sales funnel, lead sources, sales representative activity, customer trends, and revenue performance to identify where leads progress or drop off.
 
-After cleaning and preparing the data, the analysis identified **696 leads (5.13%) without an assigned sales representative**. This highlights an operational ownership gap that management could investigate to improve lead accountability and follow-up.
+After cleaning and preparing the data, the analysis identified **696 leads (5.13%) without an assigned sales representative**, alongside clear conversion differences across acquisition channels and follow-up stages.
 
-The project also examined lead conversion, sales performance, and customer purchasing patterns to identify where further attention may be needed.
+**Decision Impact:** Sales leadership can enforce mandatory CRM lead-assignment rules to close the ownership gap, and prioritize structured follow-up workflows on higher-converting lead sources rather than relying solely on increasing lead volume.
 
 **The analytical lens:** Sales funnel analysis · sales operations · commercial performance
 

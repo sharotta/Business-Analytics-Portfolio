@@ -1,14 +1,12 @@
-# Data Driven Decision Making
+# Business-Analytics-Portfolio
 Business-focused analytics projects exploring performance, problems, and decisions through data.
 
 # Sharon Dolapo Johnson
 
 ### Data Analyst | Business Analytics
 
-> **Decision-First Analytics**
-> Data should help people make better decisions, not simply create dashboards.
-
-I use data to understand performance, uncover meaningful patterns, and support better business decisions.
+> **Decision-First Analytics:** Data should help people make better decisions, not simply create dashboards.
+> I use data to understand performance, uncover meaningful patterns, and support better business decisions.
 
 ## How I Think About Analysis
 
@@ -30,10 +28,15 @@ My work focuses on business and real-world questions across:
 - **Economic & Real-World Trends** - using data to examine economic conditions and their implications for businesses and households.
 
 #### Featured Projects
-
 These projects apply the same analytical approach across different business and real-world contexts.
+### Quick Navigation
+* [01 · Global Market & Business Performance Analysis](#01--global-market--business-performance-analysis--tools-excel--power-query--power-pivot)
+* [02 · Airline Business Performance Analysis](#02--airline-business-performance-analysis--excel--sql-server--power-bi--dax)
+* [03 · SkillBridge Academy Sales Operations & Commercial Performance Analysis](#03--skillbridge-academy-sales-operations--commercial-performance-analysis--sql-server--excel--power-bi)
 
-### 01 · Global Market & Business Performance Analysis | Tools: Excel · Power Query · Power Pivot
+
+### 01 . Global Market & Business Performance Analysis | Tools: Excel · Power Query · Power Pivot
+
 <img width="1077" height="488" alt="482971864-607a837b-85cb-420e-b866-c25757695bd4" src="https://github.com/user-attachments/assets/2f8a98dc-206f-4433-b386-7086e0c140d6" />
 
 **Business question:** Where is the business performing well, where are the gaps, and what deserves management attention?
@@ -79,4 +82,4 @@ The project also examined lead conversion, sales performance, and customer purch
 ## Connect With Me
 Have a business question worth exploring? Let’s connect and see what the data can tell us.
 
-LinkedIn: https://www.linkedin.com/in/sharon-dolapo-johnson/ 
+LinkedIn:[Connect with me on LinkedIn](https://www.linkedin.com/in/sharon-dolapo-johnson/)
